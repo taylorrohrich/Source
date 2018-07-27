@@ -1,0 +1,19 @@
+Setup instructions for Source
+
+-----
+Mac
+1. Install homebrew: https://brew.sh/
+2. Open Terminal and run �brew install node�
+3. Check that you have git by typing �git� in Terminal
+----
+Windows
+1. Install babun or git bash as a terminal (needed to use git)
+2. Download node via the installer: https://nodejs.org/en/download/
+3. Open your downloaded terminal and check that you have git by typing �git�
+----
+Both Mac and Windows
+2. Install and IDE (I personally prefer VSCode: https://code.visualstudio.com/)
+1. Go to github.com and create an account
+2. Go to https://github.com/20rohrichtt/Source and click �clone or download�
+3. Copy link, go to your terminal in the desired directory and type �git clone <link>� (may need to log into git in the terminal first)
+4. Navigate to �kickoff� folder in the repo, and run �node helloworld.js�  You�re all set!

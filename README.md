@@ -4,15 +4,16 @@ Official Repository for Source Fall 2018
 
 ## Description
 
-Source is a (relatively) new HackCville program geared towards learning some of the fundamentals of software engineering. Students will learn the basics behind writing React code, working with pre-existing REST API’s (and potentially building their own).
+Source is a (relatively) new HackCville program geared towards learning some of the fundamentals of software engineering. Students will learn the basics behind writing React code, and do a brief overview of full stack development, from the frontend to backend.
 
 ## Class Format
 
 After our Kickoff on Sunday, February 4th, we’ll meet regularly on
 
-* TBD
-* TBD
-  These class times will be devoted to some introductory learning, pair programming to reinforce concepts, time to work on personal projects, and larger community events (potentially including some speakers from Charlottesville software engineers!).
+- TBD
+- TBD
+
+These class times will be devoted to some introductory learning, pair programming to reinforce concepts, time to work on personal projects, and larger community events (potentially including some speakers from Charlottesville software engineers!).
 
 ## Expectations
 
@@ -24,11 +25,9 @@ Hello World! At the kickoff we will get to know each other (don't worry we will 
 and see what Hackcville is all about! We will also set up everyone's machines with the appropriate software for the semester, and have a brief introduction
 to git if we have time.
 
-## Week 1: Overview of Git and Javascript
+## Week 1: Overview of Git, Node, and the Terminal
 
-Before we get to the really cool stuff we need to briefly touch on the fundamentals! We will make sure everyone is on the same page with cursory knowledge of
-Javascript, which we will use when we create our React web apps and more. We will also go over Git: a software that allows us to control versions of our code
-and allows us to collaborate with others.
+Although not the most flashy, Git and the Terminal two of the most important tools that develops need to know. Git is a software that allows us to control versions of our code and allows us to collaborate with others, while the Terminal is the "home base" from which we will navigate our computer files and run code.
 
 ## Week 2: Advanced Javascript
 
