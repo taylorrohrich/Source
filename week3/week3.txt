@@ -1,0 +1,16 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1DpdxJHC12Gm0sZUPaHYcEEkW0JopT_LrSpi4xXPmNxU/edit?usp=sharing
+----
+Week 4 Project:
+We will be creating a small sample React app for our exercise this week. Create a new React app (follow the instructions
+on the last slide for this week if you need a reminder), and our goal is to create a 'Quote of the Day' page.
+
+Things that you will (probably) need:
+1. Hold an array of quotes, and a current Index in state.
+2. Two buttons with onClick functions
+
+You can do this all in one file! (App.js)
+
+If you finish early, you can try adding an input bar as well that allows a user to add input, adding
+it to the default quote list.

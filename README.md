@@ -33,21 +33,21 @@ Although not the most flashy, Git and the Terminal two of the most important too
 
 We will touch quickly on several more advanced topics that in Javascript that are crucial when we start working in React, such as mapping and certain special types of function calls.
 
-## Week 3: Async + HTTP/API request
-
-Chances are, you will often need to interact with something else (like a database) outside of its own codebase. We’ll go over how to make your code “wait” while it’s pulling from these resources and how to do so using HTTP requests, which make up the bulk of how computers talk to each other over the Internet.
-
-## Week 4: Group Project
-
-You now have a good grasp on the basics and how to grab data--lets put those skills to work on a project that you and a group decide on!
-
-## Week 5: Introduction to React
+## Week 3: Introduction to React
 
 This is where the fun begins! We will start to make web applications in React, going over the fundamentals and all the necessary components.
 
-## Week 6: React, Continued
+## Week 4: React, Continued
 
 Take a deeper dive into react and start applying some of the advanced javascript techniques that we learned during Week 2.
+
+## Week 5: Group Project
+
+You now have a good grasp on the basics and how to grab data--lets put those skills to work on a project that you and a group decide on!
+
+## Week 6: Async + HTTP/API request
+
+Chances are, you will often need to interact with something else (like a database) outside of its own codebase. We’ll go over how to make your code “wait” while it’s pulling from these resources and how to do so using HTTP requests, which make up the bulk of how computers talk to each other over the Internet.
 
 ## Week 7: NPM
 
