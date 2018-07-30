@@ -6,6 +6,10 @@ Official Repository for Source Fall 2018
 
 Source is a (relatively) new HackCville program geared towards learning some of the fundamentals of software engineering. Students will learn the basics behind writing React code, and do a brief overview of full stack development, from the frontend to backend.
 
+## Class Slides
+
+Class slides can be found in the follow Google Drive folder: https://drive.google.com/open?id=1_zERtZlEsUN8crI9ihftPhgn7eeZUFNK
+
 ## Class Format
 
 After our Kickoff on Sunday, February 4th, we’ll meet regularly on
@@ -37,19 +41,19 @@ We will touch quickly on several more advanced topics that in Javascript that ar
 
 This is where the fun begins! We will start to make web applications in React, going over the fundamentals and all the necessary components.
 
-## Week 4: React, Continued
+## Week 4: React, Continued, HTTP/API request
 
-Take a deeper dive into react and start applying some of the advanced javascript techniques that we learned during Week 2.
+Take a deeper dive into react and start applying some of the advanced javascript techniques that we learned during Week 2. Chances are, you will often need to interact with something else (like a database) outside of its own codebase. We’ll go over how to make your code “wait” while it’s pulling from these resources and how to do so using HTTP requests, which make up the bulk of how computers talk to each other over the Internet.
 
 ## Week 5: Group Project
 
 You now have a good grasp on the basics and how to grab data--lets put those skills to work on a project that you and a group decide on!
 
-## Week 6: Async + HTTP/API request
+## Week 6: Review (TBD)
 
-Chances are, you will often need to interact with something else (like a database) outside of its own codebase. We’ll go over how to make your code “wait” while it’s pulling from these resources and how to do so using HTTP requests, which make up the bulk of how computers talk to each other over the Internet.
+Try to clear up concepts before moving on to more advanced topics
 
-## Week 7: NPM
+## Week 7: The Wonderful World of Node_modules
 
 Why write code that someone _probably_ has already written before? We will take a deeper dive into node package manager this week and take a look at all of the
 cool packages that you can install to make your life as a React developer easier.

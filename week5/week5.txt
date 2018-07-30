@@ -1,0 +1,8 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1UdSkzXVN6NcaBeJbm596NNKGBvsbdaQ2YTWHmQlPc4c/edit?usp=sharing
+----
+Week 5 Project:
+This week's exercise will be a bit more open-ended: find some neat API on the internet, grab some data from it via axios,
+and display it in a React app in a cool way! If you have time, try to practice using multiple React components: for example,
+make the axios api call in 'App.js' and pass it down to be displayed to a child component. For a bonus challenge, you can try to make the api call based off of user input.

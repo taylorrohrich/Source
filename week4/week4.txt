@@ -1,0 +1,22 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1ffK_BNd022eC3Ns1306o-Wusz_hAvSQFp9kqSnNgGHU/edit?usp=sharing
+----
+Week 4 Project:
+This week we learned about the parent/child relationship of components in React, as well as how to make 'get' requests with axios.
+This week's exercise will be to create a React app with multiple components. We will be making a "To-Do" List,
+where a user can input a task that they need to do, as well as a time it needs to be completed by. It will then be added
+to a list that is displayed at the bottom of the page of tasks. To get a good grasp of multiple components, your App hierarchy should look like this:
+        <App/>
+        /    \
+    <Inputs> <List/>
+
+Things to look out for:
+
+1. Since your input data needs to make it to the List component somehow, you will need to pass a 'callback' function
+from App to List to update App's state.
+
+2. App should be the 'Source (pun intended) of Truth' for all data: I suggest holding the tasks/end times in 
+an array of objects in App state, and passing it down to the List component.
+
+3. Since List will be receiving an array of objects, this is a great time to use the map function!
