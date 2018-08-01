@@ -1,0 +1,17 @@
+
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1Yb4O_nNT-sJ0EMHXXhJE1P5hMJoNbHdbaYf5Yy8-OnU/edit?usp=sharing
+----
+Week 6 Project:
+This week we learned about Firebase and how to store our data. This week's exercise will be to add even more functionality to the todo list app that we made several weeks ago.
+Alter your app to push added todo's to Firebase database, and read them from the database to render them.
+
+Things to look out for:
+You will probably be dealing with an array of items, so you could either:
+    - push each item individually to firebase and read them all back
+    - craft an array, and then push the entire array to firebase
+
+The latter is probably easier, although the former is more secure--its up to your group how to handle the data
+
+If you have time, try hosting the project as well online!

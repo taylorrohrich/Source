@@ -64,7 +64,7 @@ We’ve come to love JSON’s, right? Well, we’ll be looking at an online data
 
 ## Week 9: Graphcool
 
-ou thought Firebase was cool? Get ready for Graphcool! Graphcool extends on the functionality provided by Firebase, allowing for more complex queries and manipulation of data. We will learn the basics of querying and mutations, all the while using React for the front end.
+You thought Firebase was cool? Get ready for Graphcool! Graphcool extends on the functionality provided by Firebase, allowing for more complex queries and manipulation of data. We will learn the basics of querying and mutations, all the while using React for the front end.
 
 ## Week 10: TBD (Have program coordinator teach a skill that they learned)
 
