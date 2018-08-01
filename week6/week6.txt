@@ -1,0 +1,19 @@
+
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1J7rDOinQvZRTriPYV4fHIZNqDRiwd5_76elB8oOHNF4/edit?usp=sharing
+----
+Week 6 Project:
+This week's exercise will also be open-ended! This week we talked about some of the node_modules that you can download to make your
+life easier when developing React Apps. But there are a ton more out there! For this week's exercise, find a node_module (or two) that you think is
+cool, and create a small React app showing off it's functionality.
+
+Here is a good list:
+https://tutorialzine.com/2017/11/15-awesome-react-components
+
+Some of my Personal favorites:
+React-router
+Highcharts
+lodash
+https://github.com/bokuweb/react-rnd: movable React components
+

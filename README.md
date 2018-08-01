@@ -49,14 +49,14 @@ Take a deeper dive into react and start applying some of the advanced javascript
 
 You now have a good grasp on the basics and how to grab data--lets put those skills to work on a project that you and a group decide on!
 
-## Week 6: Review (TBD)
-
-Try to clear up concepts before moving on to more advanced topics
-
-## Week 7: The Wonderful World of Node_modules
+## Week 6: The Wonderful World of Node_modules
 
 Why write code that someone _probably_ has already written before? We will take a deeper dive into node package manager this week and take a look at all of the
 cool packages that you can install to make your life as a React developer easier.
+
+## Week 7: Speaker (TBD)
+
+Speaker (TBD)
 
 ## Week 8: Firebase
 
