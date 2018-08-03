@@ -21,7 +21,7 @@ These class times will be devoted to some introductory learning, pair programmin
 
 ## Expectations
 
-Participants are expected to attend both meetings each week. If more than four absences are recorded, there is a risk of not completing the program and discontinuing membership with HackCville, so if you feel you’re at risk here, plus talk to an instructor to evaluate your situation so we can try to work something out.
+Participants are expected to attend both meetings each week. If more than four absences are recorded, there is a risk of not completing the program and discontinuing membership with HackCville, so if you feel you’re at risk here, please talk to an instructor to evaluate your situation so we can try to work something out.
 
 ## Kickoff
 

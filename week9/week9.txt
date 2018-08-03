@@ -1,0 +1,23 @@
+Taylor Rohrich
+----
+Slides for this week are at: https://docs.google.com/presentation/d/1ZvVo6aJ-6GFjXvI9ASDbqoaPdiWz--YAZMEj0GTh4s8/edit?usp=sharing
+----
+Week 10 Project:
+
+As we saw this week, when using a backend like Graphcool we can manipulate data a lot more easily, but it requires
+more overhead. For this week's exercise, we are going to imagine that we are building a large scale e-commerce site that will
+be handling a lot of data. The goal of this week's exercise is to sketch out the whole 'blueprint' for how data will be structured,
+in Graphcool terms. 
+
+Possible tables could include:
+
+- regular users
+- merchants
+- payments
+- item for sale
+- item category (clothes, electronics, etc..)
+
+Sketch out a list of 6-8 tables and any relationships that exist between them (one-to-one, one-to-many),
+and note any restrictions that would need to be in place ( for example: an item for sale only has one seller).
+Once you and your partner have worked out the tables, try to implement them in Graphcool. (Note we won't be having
+a corresponding React component to this exercise because I know that setting up Graphcool and React take a long time!)
