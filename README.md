@@ -1,6 +1,6 @@
 # Source
 
-Official Repository for Source Fall 2018
+Official Repository for Source Fall 2018: https://github.com/20rohrichtt/Source
 
 ## Description
 
