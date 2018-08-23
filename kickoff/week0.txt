@@ -1,0 +1,18 @@
+Taylor Rohrich
+----
+Week 0 Project:
+    Think of an application that could be useful for a new college student at UVA. Think of a problem that needs to be solved
+    for first years at UVA! The goal of this exercise is to start thinking about of the things that need to go into an app.
+    Create a very rough wireframe of what the app interface would look like: you can either sketch this on paper or use a website.
+    It doesn't have to be super detailed, just enough to give an idea of how a user would interface with the app. After you have a 
+    rough sketch, think of what tools you would need to build your application, and compile them in a word doc. Here are some things to think about:
+
+    1. Do I need to grab data from anywhere?
+    2. Where would I want to store data?
+    3. Do we want a mobile app or a typical website?
+    4. Specific coding language(s) to use? (don't worry if you don't know any for this one)
+    5. Would I want users to sign in, and how would I handle user authentication?
+
+    The list above is just some things to think about-- you don't necessarily need to include every one, and are not limited to the list.
+    Obviously, some of these topics you may not know a lot about, as we have only had about an hour of class time! Not to worry, we just
+    want to see that you have given a couple topics some thought (google is certainly your friend here!)
