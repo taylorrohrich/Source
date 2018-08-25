@@ -7,11 +7,12 @@ Week 0 Project:
     It doesn't have to be super detailed, just enough to give an idea of how a user would interface with the app. After you have a 
     rough sketch, think of what tools you would need to build your application, and compile them in a word doc. Here are some things to think about:
 
-    1. Do I need to grab data from anywhere?
-    2. Where would I want to store data?
-    3. Do we want a mobile app or a typical website?
-    4. Specific coding language(s) to use? (don't worry if you don't know any for this one)
-    5. Would I want users to sign in, and how would I handle user authentication?
+    1. What is the purpose of the website?
+    2. Do I need to grab data from anywhere?
+    3. Where would I want to store data?
+    4. Do we want a mobile app or a typical website?
+    5. Specific programming language(s) to use? (don't worry if you don't know any for this one)
+    6. Would I want users to sign in, and how would I handle user authentication?
 
     The list above is just some things to think about-- you don't necessarily need to include every one, and are not limited to the list.
     Obviously, some of these topics you may not know a lot about, as we have only had about an hour of class time! Not to worry, we just
