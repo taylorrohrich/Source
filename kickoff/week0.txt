@@ -35,7 +35,7 @@ Part 1:
 
 Part 2:
     Just so everyone is on the same page, please also complete the codeAcademy course on JavaScript:
-    https://www.codecademy.com/learn/introduction-to-javascript
+    https://www.codecademy.com/learn/learn-javascript
     
 What to submit:
     (working) link to a google doc filled in on this Google Sheets: 
