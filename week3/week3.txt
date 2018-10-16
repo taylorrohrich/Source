@@ -2,7 +2,7 @@ Taylor Rohrich
 ----
 Slides for this week are at: https://docs.google.com/presentation/d/1DpdxJHC12Gm0sZUPaHYcEEkW0JopT_LrSpi4xXPmNxU/edit?usp=sharing
 ----
-Week 4 Project:
+Week 3 Project:
 We will be creating a small sample React app for our exercise this week. Create a new React app (follow the instructions
 on the last slide for this week if you need a reminder), and our goal is to create a 'Quote of the Day' page.
 

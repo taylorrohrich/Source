@@ -6,6 +6,7 @@ import "./App.css";
 const mapResults = result => {
   return result.map(row => <div>post title: {row.data.title}</div>);
 };
+
 class App extends Component {
   state = {
     result: null
@@ -20,8 +21,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        {console.log(this.state.result)}
-        {this.state.result && mapResults(this.state.result)}
+        {this.state.result !== null && mapResults(this.state.result)}
       </div>
     );
   }
