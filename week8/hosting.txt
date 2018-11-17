@@ -1,0 +1,12 @@
+Hosting
+------
+yarn add firebase-tools
+firebase login
+firebase init
+select hosting
+follow prompts
+single page app? N
+overrwrite? N
+In firebase.json, change 'public' to 'build'
+yarn run build
+firebase deploy

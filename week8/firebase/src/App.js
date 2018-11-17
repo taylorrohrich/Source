@@ -9,7 +9,7 @@ go to Realtime Database for database URL,
 update read write to true in database settings
  */
 // Initialize Firebase
-// TODO: Replace with your project's customized code snippet
+//npm install firebase
 
 /*
 Hosting
