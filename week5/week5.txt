@@ -6,3 +6,5 @@ Week 5 Project:
 This week's exercise will be a bit more open-ended: find some neat API on the internet, grab some data from it via axios,
 and display it in a React app in a cool way! If you have time, try to practice using multiple React components: for example,
 make the axios api call in 'App.js' and pass it down to be displayed to a child component. For a bonus challenge, you can try to make the api call based off of user input.
+Please work in groups of 2-3, and meet with each other at least once this following week to work on this.
+To ensure that you do, please submit a selfie of you and your team at work here! https://docs.google.com/spreadsheets/d/1M0bcORfkknU7pvRxITyNBv2SFDw9be7KVZafwqYuOCI/edit?usp=sharing
