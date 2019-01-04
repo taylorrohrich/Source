@@ -1,6 +1,6 @@
 # Source
 
-Official Repository for Source Fall 2018: https://github.com/20rohrichtt/Source
+Official Repository for Source Fall 2019: https://github.com/20rohrichtt/Source
 
 ## Description
 
@@ -14,7 +14,7 @@ Class slides can be found in the follow Google Drive folder: https://drive.googl
 
 We will meet regularly on
 
-- Tuesdays, 5-7pm
+- TBD
 
 These class times will be devoted to some introductory learning, pair programming to reinforce concepts, time to work on personal projects, and larger community events (potentially including some speakers from Charlottesville software engineers!).
 
