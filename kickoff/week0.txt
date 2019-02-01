@@ -20,7 +20,7 @@ Part 1:
     for first years at UVA! The goal of this exercise is to start thinking about the things that need to go into an app.
     Create a very rough wireframe of what the app interface would look like: you can either sketch this on paper or use a wireframe website (I recommend Marvel).
     It doesn't have to be super detailed, just enough to give an idea of how a user would interface with the app. After you have a 
-    rough sketch, think of what tools you would need to build your application, and compile them in a word doc. Here are some things to think about:
+    rough sketch, think of what tools you would need to build your application, and prepare a brief presentation on your idea in Google Slides. Here are some things to think about:
 
     1. What is the purpose of the website?
     2. Do I need to grab data from anywhere?
@@ -33,16 +33,8 @@ Part 1:
     Obviously, some of these topics you may not know a lot about, as we have only had about an hour of class time! Not to worry, we just
     want to see that you have given a couple topics some thought (google is certainly your friend here!)
 
-Part 2:
-    Just so everyone is on the same page, please also complete the codeAcademy course on JavaScript:
-    https://www.codecademy.com/learn/learn-javascript
-    
 What to submit:
-    (working) link to a google doc filled in on this Google Sheets: 
+    (working) link to a google slides filled in on this Google Sheets: 
     https://docs.google.com/spreadsheets/d/1fEgONDdcE1RGMCH_zVTnXt36R4Q4q4dTC7WcPYYqTVc/edit?usp=sharing
-
-    Your google doc should include:
-    1. A summary of your findings from Part 1
-    2. A screenshot of the "completion" page of the JavaScript course
 
 
