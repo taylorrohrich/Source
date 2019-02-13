@@ -15,3 +15,7 @@ Add Your Local Branch Changes
 Get Updated Repo From Github
 ---------------
 git pull
+---------------
+See the Status of your Files
+---------------
+git status
