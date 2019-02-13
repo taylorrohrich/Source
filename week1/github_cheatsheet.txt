@@ -1,6 +1,7 @@
 ---------------
 Getting Started
 ---------------
+***Make sure you clone into a place OUTSIDE of a existing git repo***
 git clone "url" ------------ copy your repository to you computer
 git branch "branch_name" --- create new branch
 git checkout branch_name --- switch to branch
