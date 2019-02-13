@@ -10,6 +10,7 @@ and print out to the terminal some of their favorite things. Pair up in a group 
 and put it in their own repo. The other partner(s) will then clone the repo, checkout a branch on git, and edit the  'github.js' file.
 Once each person has made their changes on their own branch, push the branch up to github, submit a pull request, and merge it with develop.
 By the end of the exercise, each of you should be able to pull down the code from the develop branch, run it, and see all of the changes!
+If you finish ahead of schedule, start on this tutorial: https://www.codecademy.com/learn/introduction-to-javascript
 
 
 
