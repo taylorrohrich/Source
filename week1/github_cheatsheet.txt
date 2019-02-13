@@ -1,0 +1,17 @@
+---------------
+Getting Started
+---------------
+git clone "url" ------------ copy your repository to you computer
+git branch "branch_name" --- create new branch
+git checkout branch_name --- switch to branch
+
+---------------
+Add Your Local Branch Changes
+---------------
+1. git add .
+2. git commit -m "commit message"
+3. git push
+---------------
+Get Updated Repo From Github
+---------------
+git pull
