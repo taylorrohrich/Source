@@ -18,11 +18,14 @@ class App extends Component {
     })
   }
   componentDidMount() {
-    fetch("https://www.reddit.com/r/rarepuppers/.json").then(response => response.json())
+    fetch("https://dog.ceo/api/breeds/image/random").then(response => response.json())
       .then(
-        res => this.setState({
-          data: res
-        })
+        res => {
+          console.log(res)
+          this.setState({
+            image: res.message
+          })
+        }
       );
 
   }
@@ -46,6 +49,7 @@ class App extends Component {
         <Header />
         <Body counter={this.state.counter} />
         <Footer />
+        <img src={this.state.image} />
       </div>
     );
   }
