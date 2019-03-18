@@ -4,6 +4,9 @@ import './App.css';
 
 class List extends Component {
     mapTodos = (todos) => {
+        return todos.map(obj => {
+            return <div> due at: {obj.due} task: {obj.task}</div>
+        })
         //Map through the todos here
     }
     render() {
