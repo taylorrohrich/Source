@@ -10,7 +10,7 @@ import './App.css';
 import { Link } from 'react-router-dom'
 import { Button } from 'antd';
 
-class Page1 extends Component {
+class Posts extends Component {
     state = {
         posts: []
     }
@@ -28,4 +28,4 @@ class Page1 extends Component {
     }
 }
 
-export default Page1;
+export default Posts;
